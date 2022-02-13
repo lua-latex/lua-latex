@@ -1,6 +1,6 @@
 ~
 
-You are probably looking for my [gitlab](https://gitlab.com/co1ncidene)!
+You are probably looking for my [gitlab](https://gitlab.com/co1ncidence)!
 
 This account serves as a shell for when i need github (issues, contributions etc.).
 
